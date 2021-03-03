@@ -6,19 +6,34 @@
 
 # Asus-Vivobook-Pro-N580VD
 
+![descrizione](./Screenshot/1.jpg)
+
 ## Computer Spec:
 
-| Component     | Brank                                                  |
-| ---------------- | ----------------------------------            |
-| CPU                | Intel® i7 6500U (SKL)                         |
-| IGPU               | Intel® HD Graphics 520                     |
-| dGPU              | Nvidia 920m (disabled on macOs)     |
-| Display            | 1920x1080                                         |
-| Audio              | Realtek ALC255                                 |
-| Ram                | 16 Gb ddr3 1600 Mhz                        |
-| SSD                | Kingstone A400 128gb                       |
-| SmBios           | MacbookPro 13,3                               |
-| BootLoader    | OpenCore                                           |
+| Component          | Brank                               |
+| ------------------ | ----------------------------------  |
+| CPU                | Intel® i7 7700HQ (KL)               |
+| IGPU               | Intel® HD Graphics 630              |
+| dGPU               | Nvidia 1050 GTX (disabled on macOs) |
+| Display            | 1920x1080                           |
+| Audio              | Conexant Audio CX8150               |
+| Ram                | 16 Gb ddr3 1600 Mhz                 |
+| SSD                | Kingstone A400 128gb                |
+| SmBios             | MacbookPro 14,3                     |
+| BootLoader         | OpenCore                            |
 
+### BIOS SETTINGS:
+
+BIOS VER: 315
+Secureboot: Disabled
+Fastboot: Disabled
+CSM Support: Disabled
+Legacy USB Support: Disabled
+Sata mode: AHCI
+DVMT Pre-Allocated: 64M
+
+### DCPIManager
+![descrizione](./Screenshot/2.jpg)
+![descrizione](./Screenshot/3.jpg)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
