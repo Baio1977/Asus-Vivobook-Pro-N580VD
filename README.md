@@ -24,16 +24,21 @@
 
 ### BIOS SETTINGS:
 
-BIOS VER: 315
-Secureboot: Disabled
-Fastboot: Disabled
-CSM Support: Disabled
-Legacy USB Support: Disabled
-Sata mode: AHCI
-DVMT Pre-Allocated: 64M
+- BIOS VER: 315
+- Secureboot: Disabled
+- Fastboot: Disabled
+- CSM Support: Disabled
+- Legacy USB Support: Disabled
+- Sata mode: AHCI
+- DVMT Pre-Allocated: 64M
 
 ### DCPIManager
+
 ![descrizione](./Screenshot/2.jpg)
 ![descrizione](./Screenshot/3.jpg)
+
+### Trackpad
+
+![descrizione](./Screenshot/4.png)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
