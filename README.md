@@ -17,7 +17,7 @@
 | dGPU               | Nvidia 1050 GTX (disabled on macOs) |
 | Display            | 1920x1080                           |
 | Audio              | Conexant Audio CX8150               |
-| Ram                | 16 Gb ddr3 1600 Mhz                 |
+| Ram                | 32GB                                             |
 | SSD                | Kingstone A400 128gb                |
 | SmBios             | MacbookPro 14,3                     |
 | BootLoader         | OpenCore                            |
