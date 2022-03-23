@@ -15,7 +15,7 @@
 | CPU                | Intel® i7 7700HQ (KL)               |
 | IGPU               | Intel® HD Graphics 630              |
 | dGPU               | Nvidia 1050 GTX (disabled on macOs) |
-| Display            | 1920x1080                           |
+| Display            | Schermo 4K                          |
 | Audio              | Conexant Audio CX8150               |
 | Ram                | 32GB                                |
 | SSD                | Kingstone A400 128gb                |
