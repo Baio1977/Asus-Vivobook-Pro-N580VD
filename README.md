@@ -16,8 +16,7 @@
 | Audio              | Conexant Audio CX8150               |
 | Ram                | 32GB                                |
 | SSD                | Kingstone A400 128gb                |
-| SmBios             | MacbookPro 14,3                     |
-| BootLoader         | OpenCore                            |
+| SmBios             | MacbookPro 15,2                     |
 
 ### BIOS SETTINGS:
 
