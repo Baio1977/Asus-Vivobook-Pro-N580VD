@@ -20,7 +20,7 @@
 
 ### BIOS SETTINGS:
 
-- BIOS VER: 315
+- BIOS VER: 317
 - Secureboot: Disabled
 - Fastboot: Disabled
 - CSM Support: Disabled
