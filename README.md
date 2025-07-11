@@ -52,7 +52,7 @@
 
 ### Output Video
 
-![descrizione](./Screenshot/6.png)
+![descrizione](./Screenshot/6.jpg)
 
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
