@@ -30,14 +30,29 @@
 - Legacy USB Support: Disabled
 - Sata mode: AHCI
 - DVMT Pre-Allocated: 64M
+  
+![descrizione](./Screenshot/6.jpg)
+
 
 ### DCPIManager
 
 ![descrizione](./Screenshot/2.jpg)
 ![descrizione](./Screenshot/3.jpg)
 
+
+### USB
+
+![descrizione](./Screenshot/5.jpg)
+
+
 ### Trackpad
 
 ![descrizione](./Screenshot/4.png)
+
+
+### Output Video
+
+![descrizione](./Screenshot/6.png)
+
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
