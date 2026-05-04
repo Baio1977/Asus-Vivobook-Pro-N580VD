@@ -31,7 +31,7 @@
 - Sata mode: AHCI
 - DVMT Pre-Allocated: 64M
   
-![descrizione](./Screenshot/6.jpg)
+![descrizione](./Screenshot/6.png)
 
 
 ### DCPIManager
